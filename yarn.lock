@@ -1481,6 +1481,15 @@
     react-native-keyboard-aware-scroll-view "^0.9.3"
     uuid "^8.3.2"
 
+"@modules/typeform-webhook@file:./modules/typeform-webhook":
+  version "1.0.0"
+  dependencies:
+    "@react-navigation/native" "6.0.8"
+    "@react-navigation/native-stack" "6.5.0"
+    react-native-base64 "0.2.1"
+    react-native-screens "3.10.2"
+    react-native-typeform-embed "1.0.4"
+
 "@modules/typeform-webhook@file:./modules/typeform-webhook/":
   version "1.0.0"
   dependencies:
